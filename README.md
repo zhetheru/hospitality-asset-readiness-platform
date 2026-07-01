@@ -423,6 +423,7 @@ This project demonstrates practical experience with:
 
  
 **Zarita Lee Hetheru**  
+
 M.S. Computer Science Candidate, Case Western Reserve University  
 Expected Graduation: August 2026  
 
